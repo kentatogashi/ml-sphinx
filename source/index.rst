@@ -3,20 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to kaggle snippets's documentation!
+Kaggleで、使うスニペット集
 ===========================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 目次:
 
-   preprocessing
-   evaluation
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   1_datasets
+   2_eda
+   3_preprocessing
+   4_model
+   5_tuning
+   6_evaluation
